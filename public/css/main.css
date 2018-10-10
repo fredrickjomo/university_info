@@ -1,0 +1,19 @@
+#app{
+    background-color: #ffffff;
+}
+body .my-nav{
+    background-color: #ffffff;
+    border-top: solid 1px black;
+}
+body .my-nav .container a{
+    font-family: Gabriola;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+}
+body .my-nav .container a:hover{
+   color: #00bfa5;
+    font-family: Garamond;
+    border-bottom: solid 1px green;
+}
